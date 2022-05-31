@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./preview/1.PNG" width="512" height="512"/>
+<img src="./preview/1.PNG" width="1920" height="600"/>
 </p>
 
 ```bash
@@ -11,7 +11,7 @@ BOT Ini Dikhususkan Bagi Para Kalian Yang Ingin Mendaftar Sebagai ShopeeFood Dri
 ```
 
 <p align="center">
-<img src="./preview/2.PNG" width="512" height="512"/>
+<img src="./preview/2.PNG" width="1920" height="600"/>
 </p>
 
 ```bash
@@ -20,7 +20,7 @@ BOT Ini Dikhususkan Bagi Para Kalian Yang Ingin Mendaftar Sebagai ShopeeFood Dri
 3. Gunakan BOT Ini Dengan Bijak
 ```
 <p align="center">
-<img src="./preview/2.PNG" width="512" height="512"/>
+<img src="./preview/2.PNG" width="1920" height="600"/>
 </p>
 
 ### Donate:

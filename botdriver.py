@@ -43,7 +43,6 @@ print("_Made By MrHecka_\n")
 
 
 def daftar():
-    cekempty = os.path.getsize("data.txt")
     of = open('data.txt','r').readline()
     datas = of.split(':')
     url = "https://survey.alchemer.com/s3/6406341/Formulir-Pendaftaran-Driver-ShopeeFood"
