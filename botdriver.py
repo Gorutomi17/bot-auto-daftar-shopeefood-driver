@@ -76,6 +76,13 @@ def daftar():
 
     # MASUKKAN PAGE 2
     body2 = {
+    "sg_currentpageid": "3",
+    "sgE-6406341-3-3": datas[0],
+    "sgE-6406341-3-4": datas[1],
+    "sgE-6406341-3-5": datas[2],
+    "sgE-6406341-3-6": datas[3],
+    "sgE-6406341-3-7": "10056",
+    "sGizmoNextButton": "Next",
     "sg_currentpageid": "4",
     "sg_surveyident": id1,
     "sg_sessionid": session,
