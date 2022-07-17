@@ -2,6 +2,7 @@ import requests, json, re, time, os
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 from lxml import html
+from html2image import Html2Image
 
 ua = UserAgent(verify_ssl=False)
 

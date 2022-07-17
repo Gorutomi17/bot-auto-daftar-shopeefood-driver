@@ -18,6 +18,7 @@ BOT Ini Dikhususkan Bagi Para Kalian Yang Ingin Mendaftar Sebagai ShopeeFood Dri
 1. Jangan Salah Gunakan BOT Ini
 2. Dilarang Recode Tanpa Seijin Author
 3. Gunakan BOT Ini Dengan Bijak
+4. Jalankan Perintah `pip install -r requirements` Di Folder Terlebih Dahulu Sebelum Menggunakan Bot Ini
 ```
 <p align="center">
 <img src="./preview/2.PNG" width="1920" height="600"/>
